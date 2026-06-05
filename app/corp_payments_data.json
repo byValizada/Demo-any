@@ -1,0 +1,13 @@
+[
+  {
+    "id": "4552e501-8ae4-47c2-8e8e-0ceed88c1141",
+    "tenant_id": "tenant-corp",
+    "student_id": "u-corp-s1",
+    "student_name": "Aytac Huseynova",
+    "amount": 1500.0,
+    "description": "aylıq",
+    "month": "2026-06",
+    "status": "paid",
+    "created_at": "2026-05-20T05:36:32.365840"
+  }
+]

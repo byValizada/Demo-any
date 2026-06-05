@@ -1,0 +1,34 @@
+{
+  "app_name": "EduAi",
+  "debug_mode": false,
+  "maintenance": false,
+  "providers": {
+    "Cerebras": {
+      "active": true,
+      "priority": 1,
+      "daily_limit": 10000
+    },
+    "Groq": {
+      "active": true,
+      "priority": 2,
+      "daily_limit": 8000
+    },
+    "Gemini": {
+      "active": true,
+      "priority": 3,
+      "daily_limit": 5000
+    },
+    "OpenRouter": {
+      "active": true,
+      "priority": 4,
+      "daily_limit": 3000
+    }
+  },
+  "email_notifs": true,
+  "threshold_alerts": true,
+  "threshold_pct": 75,
+  "contact_phone": "+994 50 000 00 00",
+  "contact_email": "info@eduai.az",
+  "contact_whatsapp": "",
+  "contact_message": "Hesabınızı aktivləşdirmək üçün bizimlə əlaqəyə keçin."
+}

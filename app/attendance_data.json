@@ -1,0 +1,27 @@
+{
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_eb7e7933-08e4-4015-ad9d-45237329f3fa_2026-05-23": {
+    "fde6c62b-0fe2-4073-bab0-de2596413f82": true,
+    "e66aca80-eb55-4a8a-b63e-28041264c367": true,
+    "73d49c0b-8209-4ef3-8c62-341934f786ba": true
+  },
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_eb7e7933-08e4-4015-ad9d-45237329f3fa_2026-05-24": {
+    "fde6c62b-0fe2-4073-bab0-de2596413f82": false,
+    "e66aca80-eb55-4a8a-b63e-28041264c367": false,
+    "73d49c0b-8209-4ef3-8c62-341934f786ba": false
+  },
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_3dcb27ef-4e3a-45e9-8c15-3133d09719b3_2026-05-26": {
+    "bbefe2ad-3de8-4b5d-b33b-d3edfe49294e": true
+  },
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_66dfc9c5-d209-415c-8fd9-ed3c2083e9c9_2026-05-31": {
+    "bbefe2ad-3de8-4b5d-b33b-d3edfe49294e": true,
+    "c57ce945-7bc8-4c89-8e53-ebaae0c547eb": true
+  },
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_3497dfec-a6d0-4f42-a8ed-f0ff72ec0d61_2026-06-01": {
+    "bbefe2ad-3de8-4b5d-b33b-d3edfe49294e": "late",
+    "c57ce945-7bc8-4c89-8e53-ebaae0c547eb": "present"
+  },
+  "8649c73d-f9d4-4549-a11b-b6d46433373a_66dfc9c5-d209-415c-8fd9-ed3c2083e9c9_2026-06-01": {
+    "bbefe2ad-3de8-4b5d-b33b-d3edfe49294e": "present",
+    "c57ce945-7bc8-4c89-8e53-ebaae0c547eb": "present"
+  }
+}
